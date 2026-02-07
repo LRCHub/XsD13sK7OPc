@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ノクティルーカ (ASH ver.)",
+  "base_artist": "Orangestar",
+  "createdAt": "2026-02-07T10:29:24.669838Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ノクティルーカ",
+      "artist": "Orangestar, IA",
+      "has_synced": false,
+      "path": "select/pl_01_ノクティルーカ_Orangestar,_IA.txt"
+    }
+  ]
+}
